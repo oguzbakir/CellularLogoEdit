@@ -1,4 +1,4 @@
-package substratum.theme.template
+package net.oguzbakir.cellularlogoedit
 
 object AdvancedConstants {
 

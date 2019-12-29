@@ -1,13 +1,13 @@
-package substratum.theme.template
+package net.oguzbakir.cellularlogoedit
 
 import android.annotation.SuppressLint
 import android.content.Context
 import android.content.pm.PackageManager
 import android.content.pm.Signature
 import android.os.RemoteException
-import substratum.theme.template.AdvancedConstants.BLACKLISTED_APPLICATIONS
-import substratum.theme.template.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
-import substratum.theme.template.AdvancedConstants.OTHER_THEME_SYSTEMS
+import net.oguzbakir.cellularlogoedit.AdvancedConstants.BLACKLISTED_APPLICATIONS
+import net.oguzbakir.cellularlogoedit.AdvancedConstants.ORGANIZATION_THEME_SYSTEMS
+import net.oguzbakir.cellularlogoedit.AdvancedConstants.OTHER_THEME_SYSTEMS
 
 @Suppress("ConstantConditionIf")
 object ThemeFunctions {
